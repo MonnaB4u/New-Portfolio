@@ -9,19 +9,19 @@ function NavBar() {
     <ul class="navbar-nav ancor">
 
       <li class="nav-item active">
-        <a class="nav-link"  href="home">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" style={{color:"orange"}}  href="home">Home <span class="sr-only">(current)</span></a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="projects">My-Projects</a>
+        <a class="nav-link" style={{color:"orange"}} href="projects">My-Projects</a>
       </li>
 
       <li class="nav-item">
-      <a class="nav-link" href="blog">Blog</a>
+      <a class="nav-link" style={{color:"orange"}} href="blog">Blog</a>
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="about">About-me</a>
+        <a class="nav-link" style={{color:"orange"}} href="about">About-me</a>
       </li>
      
     </ul>
