@@ -1,0 +1,35 @@
+import React from 'react'
+import './NavBar.css'
+function NavBar() {
+    return (
+        <div>
+
+        <nav class="navbar navbar-expand-lg navbar-light " >
+  <div class="collapse navbar-collapse d-flex justify-content-center">
+    <ul class="navbar-nav ancor">
+
+      <li class="nav-item active">
+        <a class="nav-link"  href="home">Home <span class="sr-only">(current)</span></a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="projects">My-Projects</a>
+      </li>
+
+      <li class="nav-item">
+      <a class="nav-link" href="blog">Blog</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="about">About-me</a>
+      </li>
+     
+    </ul>
+  </div>
+</nav>
+            
+        </div>
+    )
+}
+
+export default NavBar
