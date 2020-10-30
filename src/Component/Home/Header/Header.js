@@ -3,7 +3,6 @@ import img from '../../../Image/bubble.png'
 import monna from '../../../Image/Monna.jpg'
 import './Header.css'
 
-import { Button } from 'react-bootstrap';
 
 function Header() {
     return (

@@ -6,6 +6,11 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Home from './Component/Home/Home';
+import Blog from './Component/Home/Blog/Blog';
+import NavBar from './Component/Home/NavBar/NavBar';
+import CustomerFeedBack from './Component/Home/CustomerFeedBack/CustomerFeedBack';
+import Projects from './Component/Home/Projects/Projects';
 
 
 function App() {
