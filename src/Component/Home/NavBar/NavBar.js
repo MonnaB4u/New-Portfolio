@@ -17,7 +17,7 @@ function NavBar() {
       </li>
 
       <li class="nav-item">
-      <a class="nav-link" style={{color:"orange"}} href="blog">Blog</a>
+      <a class="nav-link" style={{color:"orange"}} href="https://medium.com/me/stories/public">Blog</a>
     </li>
 
     <li class="nav-item">

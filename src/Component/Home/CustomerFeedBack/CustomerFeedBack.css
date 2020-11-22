@@ -11,3 +11,8 @@
     opacity: .9;
     z-index: -1;
 }
+
+.home{
+    margin-left:180px;
+    color:red;
+}
