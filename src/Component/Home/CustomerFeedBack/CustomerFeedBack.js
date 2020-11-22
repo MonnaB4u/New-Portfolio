@@ -32,12 +32,6 @@ const CustomerFeedBack = () => {
 
                             </div>
 
-                            <div className="ml-5">
-                            <a href="/home" style={{ textDecoration: "none", color: "white" }}>
-                                    <h3 className="home" >Back To Home</h3>
-                                </a>
-                            </div>
-
                         </div>
 
                         <form onSubmit={sendEmail} action="">
@@ -57,7 +51,7 @@ const CustomerFeedBack = () => {
                     </div>
                 </div>
             </section>
-            <Footer></Footer>
+            
         </div>
     );
 };

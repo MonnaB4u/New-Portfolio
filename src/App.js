@@ -11,6 +11,7 @@ import Blog from './Component/Home/Blog/Blog';
 import NavBar from './Component/Home/NavBar/NavBar';
 import CustomerFeedBack from './Component/Home/CustomerFeedBack/CustomerFeedBack';
 import Projects from './Component/Home/Projects/Projects';
+import Customer from './Component/Home/Customer/Customer';
 
 
 function App() {
@@ -24,7 +25,7 @@ function App() {
    <Route path='/blog'> <Blog></Blog> </Route>
    <Route path='/blog'> <Blog></Blog> </Route>
    <Route path='/projects'> <NavBar></NavBar> <Projects></Projects> </Route>
-   <Route path='/about'> <section className="banner"> <CustomerFeedBack></CustomerFeedBack> </section>  </Route>
+   <Route path='/about'> <section className="banner"> <Customer></Customer> </section>  </Route>
    </Switch>
    </Router>
      

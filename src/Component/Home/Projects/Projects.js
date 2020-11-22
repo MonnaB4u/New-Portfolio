@@ -5,12 +5,7 @@ var Webdata=[
     {
         name: 'Creative-Agency',
         link:"https://vigilant-swirles-da17f0.netlify.app/",
-        details:`1. A full-stack website of a dummy agency that provides creative services.
-        2. It has both client and admin access. 3. Client can order.
-         4. client can give review.
-          5. client can see the order list whereas admin can create a new service review order
-          6. can make a new admin.
-           7. Deployed server-side in Heroku and client-side in Netlify.`,
+        details:"1. A full-stack website of a dummy agency that provides creative services. 2. It has both client and admin access. 3. Client can order. 4. client can give review. 5. client can see the order list whereas admin can create a new service review order 6. can make a new admin. 7. Deployed server-side in Heroku and client-side in Netlify.",
         tecnology:"React.js,BootStrap,JavaScript,Es6,Node.js, Express.js,MongoDB, Firebase Authentication",
         img:"https://i.ibb.co/Rpmf3Pn/Creative-Agency.png"
          
