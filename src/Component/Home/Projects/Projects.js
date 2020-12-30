@@ -43,8 +43,22 @@ var Webdata=[
     tecnology:"html4, css3, bootstrap.javaScrips",
     img:"https://i.ibb.co/Npnh5K5/Screenshot-15.png"
 },
+{
+    name:"Power X-Gym",
+    link:"https//clever-wozniak-3d1391.netlify.app/Home",
+    details:` 1 It is a dummy Website which will help peoples to find best gym center in there town 
+    2. Customers can choose trainer and gym classes by their own choice.
+    3. Customers can choose classes with customers convenient time
+    4. User can purchase their plan with some discount.
+    5. Before purchase the gym plan . user must submit this form for create membership
+    6. Customer can use several kind of bank for purchase . this part is for that
+    7. Customer can use Visa , Maestro , Discover , American Express and paypal also`,
+    tecnology:"html4, css3, bootstrap.javaScrips",
+    img:"https://i.ibb.co/Npnh5K5/Screenshot-15.png"
+},
 
 ]
+
 
 const Projects = () => {
     

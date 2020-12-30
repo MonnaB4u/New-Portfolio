@@ -76,7 +76,7 @@ const CustomerFeedBackHeader = () => {
 
             <div className="col-md-6">
               <div className="m-3">
-              <a href="https://drive.google.com/uc?export=download&id=1VK2PmxXWWhh6Xb2_MyoqDPeA9qqXAqLk" style={{ textDecoration: "none"}}>
+              <a href="https://drive.google.com/uc?export=download&id=1VK2PmxXWWhh6Xb2_MyoqDPeA9qqXAqLkn" style={{ textDecoration: "none"}}>
                 <div className="d-flex awesomeGrid4 ml-3 justify-content-center">
                   <div className="images">
                     <img className="mt-4" src="" alt="" />
