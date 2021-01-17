@@ -11,12 +11,32 @@ var Webdata=[
          
     },
     {
-        name:"Travel-Guro",
-        link:"https://quirky-jang-5a5390.netlify.app",
-        details:" User can Log in by Gmail, email and password, facebook. user can choice his destination by users choice. The user will be able to know the details about the place he like. User can set the date he wants to go ",
-        tecnology:"React.js,BootStrap,JavaScript,Es6,Node.js, Firebase Authentication",
-        img:"https://i.ibb.co/Gv99X5j/Home.png"
+        name:"Athena Team Project",
+        link:"https://peaceful-meitner-56572c.netlify.app/?fbclid=IwAR0kmD68vkv-olb4bjx56XtB2ONvNY5FamAiVy0PXCA__QeWPXtUD5XrDww",
+        details:` This Project is done by team . we three members done this web site.  Stay running and Achievement part is done by me others part is done by my team member`,
+        tecnology:"React.js,React Router,Node.js,Es6,Express.js",
+        img:"https://i.ibb.co/TK7hMfw/16-Converted-2x.png"
     },
+    {
+        name:"Power X-Gym",
+        link:"https://clever-wozniak-3d1391.netlify.app/Home",
+        details:` 1 It is a dummy Website which will help peoples to find best gym center in there town 
+        2. Customers can choose trainer and gym classes by their own choice.
+        3. Customers can choose classes with customers convenient time
+        4. User can purchase their plan with some discount.
+        5. Before purchase the gym plan . user must submit this form for create membership
+        6. Customer can use several kind of bank for purchase . this part is for that
+        7. Customer can use Visa , Maestro , Discover , American Express and paypal also`,
+        tecnology:"React.js, html4, css3, bootstrap.javaScrips",
+        img:"https://i.ibb.co/1Ktp7mv/powerx-1.png"
+    },
+    // {
+    //     name:"Travel-Guro",
+    //     link:"https://quirky-jang-5a5390.netlify.app",
+    //     details:" User can Log in by Gmail, email and password, facebook. user can choice his destination by users choice. The user will be able to know the details about the place he like. User can set the date he wants to go ",
+    //     tecnology:"React.js,BootStrap,JavaScript,Es6,Node.js, Firebase Authentication",
+    //     img:"https://i.ibb.co/Gv99X5j/Home.png"
+    // },
     {  name:"Social-Buddy",
        link:"https://quizzical-hermann-6c855c.netlify.app/",
        details:" people can see some friends picture with post. people can see who is commenting on those pictures",
@@ -43,19 +63,7 @@ var Webdata=[
     tecnology:"html4, css3, bootstrap.javaScrips",
     img:"https://i.ibb.co/Npnh5K5/Screenshot-15.png"
 },
-{
-    name:"Power X-Gym",
-    link:"https//clever-wozniak-3d1391.netlify.app/Home",
-    details:` 1 It is a dummy Website which will help peoples to find best gym center in there town 
-    2. Customers can choose trainer and gym classes by their own choice.
-    3. Customers can choose classes with customers convenient time
-    4. User can purchase their plan with some discount.
-    5. Before purchase the gym plan . user must submit this form for create membership
-    6. Customer can use several kind of bank for purchase . this part is for that
-    7. Customer can use Visa , Maestro , Discover , American Express and paypal also`,
-    tecnology:"html4, css3, bootstrap.javaScrips",
-    img:"https://i.ibb.co/Npnh5K5/Screenshot-15.png"
-},
+
 
 ]
 
