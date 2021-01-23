@@ -8,22 +8,22 @@ function NavBar() {
   <div class="collapse navbar-collapse d-flex justify-content-center">
     <ul class="navbar-nav ancor">
 
-      <li class="nav-item active">
-        <a class="nav-link" style={{color:"orange"}}  href="home">Home <span class="sr-only">(current)</span></a>
+      <li class="nav-item ">
+        <a class="nav-link m-3"  href="home">Home <span class="sr-only">(current)</span></a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" style={{color:"orange"}} href="projects">My-Projects</a>
+        <a class="nav-link color  m-3"  href="projects">My-Projects</a>
       </li>
 
       <li class="nav-item">
-      <a class="nav-link" style={{color:"orange"}} href="https://medium.com/me/stories/public">Blog</a>
+      <a class="nav-link  m-3"  href="https://medium.com/me/stories/public">Blog</a>
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" style={{color:"orange"}} href="about">About-me</a>
+        <a class="nav-link  m-3" href="about">About-me</a>
       </li>
-     
+      {/* style={{color:"orange"}} */}
     </ul>
   </div>
 </nav>

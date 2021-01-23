@@ -71,7 +71,7 @@ var Webdata=[
 const Projects = () => {
     
     return (
-        <section className="row banner">
+        <section className="row">
         {
             Webdata.map(data => <ProjectsData data={data} key={data.name}></ProjectsData>)
         }

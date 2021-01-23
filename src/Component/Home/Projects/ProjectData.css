@@ -1,3 +1,17 @@
 .box p{
     border-radius:5px;    
 }
+.anm{
+   
+     width: 350px;
+    /* height: 300px; */
+    padding: 40px 20px 30px 20px;
+    display: inline-block;
+    float: left;
+    color: #000000;
+    margin-top: 50px;
+    opacity: 0;
+    text-align: center;
+    -webkit-animation: moveIn 1s 0.5s ease forwards;
+    animation: moveIn 1s 0.4s ease forwards;
+}

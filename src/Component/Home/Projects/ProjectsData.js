@@ -32,7 +32,7 @@ const ProjectsData = (props) => {
 
 
     return (
-        <div>
+        <div className="anm">
             <Card className="m-3 ml-5" style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={img} />
                 <Card.Body>

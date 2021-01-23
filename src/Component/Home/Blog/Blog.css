@@ -1,9 +1,9 @@
 /* html {
     height: 100%;
   } */
-  .body {
+  /* .body {
     overflow: hidden;
-    /* background: #bcdee7 url("../img/bg.jpg") no-repeat center center fixed; */
+    background: #bcdee7 url("../img/bg.jpg") no-repeat center center fixed;
     background-size: cover;
     position: fixed;
     padding: 0px;
@@ -12,7 +12,7 @@
     height: 100%;
     font: normal 14px/1.618em "Roboto", sans-serif;
     -webkit-font-smoothing: antialiased;
-  }
+  } */
   
   /* .body:before {
     content: "";

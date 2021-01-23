@@ -2,6 +2,11 @@
     width: 60%;
     border-radius: 50px;
 }
+.images:hover{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+    
+}
 
 .awesomeGrid{
     color: white;
@@ -17,6 +22,8 @@
 
 .awesomeGrid:hover{
     background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+    animation: shake 0.5s;
+  animation-iteration-count: infinite;
 }
 
 .awesomeGrid2{
@@ -33,6 +40,8 @@
 
 .awesomeGrid2:hover{
     background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+    animation: shake 0.5s;
+  animation-iteration-count: infinite;
 }
 
 .awesomeGrid3{
@@ -48,6 +57,8 @@
 }
 .awesomeGrid3:hover{
     background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+    animation: shake 0.5s;
+  animation-iteration-count: infinite;
 }
 
 .awesomeGrid4{
@@ -63,8 +74,24 @@
 }
 .awesomeGrid4:hover{
     background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+    animation: shake 0.5s;
+  animation-iteration-count: infinite;
 }
 
 .text a{
     color: white;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
 }

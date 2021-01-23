@@ -13,6 +13,7 @@
     
     background-color: rgb(29, 137, 161);
     box-shadow: 0px 0px 5px 6px rgb(240, 165, 104);
+    transition: 0.7s all ;
 }
 
 .skill small{

@@ -15,16 +15,15 @@ import Customer from './Component/Home/Customer/Customer';
 
 function App() {
   return (
-    <div>
-
+    <div className="banner">
     <Router>
-   <Switch>
+   <Switch >
    <Route exact path='/'> <Home></Home></Route>
    <Route exact path='/home'> <Home ></Home></Route>
    <Route path='/blog'> <Blog></Blog> </Route>
    <Route path='/blog'> <Blog></Blog> </Route>
    <Route path='/projects'> <NavBar></NavBar> <Projects></Projects> </Route>
-   <Route path='/about'> <section className="banner"> <Customer></Customer> </section>  </Route>
+   <Route path='/about'>  <Customer></Customer> </Route>
    </Switch>
    </Router>
      
