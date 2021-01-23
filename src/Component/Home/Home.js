@@ -6,6 +6,7 @@ import './Home.css'
 function Home() {
     return (
         <div className="banner">
+            <div className="main">        
         <div>
         <NavBar></NavBar>
         </div>
@@ -13,7 +14,7 @@ function Home() {
         <Header></Header>
         </div>
 
-        
+        </div>
     
         </div>
     )
